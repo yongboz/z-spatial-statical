@@ -1,0 +1,19 @@
+{
+  "name": "z-spatial-statical",
+  "version": "1.0.0",
+  "description": "空间统计",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongboz/z-spatial-statical.git"
+  },
+  "author": "yongboz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongboz/z-spatial-statical/issues"
+  },
+  "homepage": "https://github.com/yongboz/z-spatial-statical#readme"
+}
